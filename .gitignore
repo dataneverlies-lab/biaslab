@@ -1,0 +1,6 @@
+cd biaslab
+nano .gitignore
+# wklej to samo
+git add .gitignore
+git commit -m "Add initial .gitignore (research-safe)"
+git push
