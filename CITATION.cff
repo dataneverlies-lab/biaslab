@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "BiasLab: Auditing Narrative Divergence in Large Language Models"
+message: "If you use this software or methodology, please cite it as below."
+type: software
+
+authors:
+  - family-names: Trojanowski
+    given-names: Tomasz
+    affiliation: Data Never Lies
+    email: tomasz@dataneverlies.org
+
+repository-code: https://github.com/dataneverlies-lab/biaslab
+url: https://dataneverlies.org
+
+abstract: >
+  BiasLab is an open, reproducible research framework for auditing narrative
+  divergence and normative bias in large language models by comparing how
+  different models respond to identical questions in socially sensitive and
+  normative contexts.
+
+keywords:
+  - large language models
+  - AI bias
+  - narrative analysis
+  - algorithmic auditing
+  - AI ethics
+  - reproducible research
+
+license: Apache-2.0
